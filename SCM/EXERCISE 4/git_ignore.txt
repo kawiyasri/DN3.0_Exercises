@@ -1,0 +1,22 @@
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDE specific
+/.idea
+/.project
+/.classpath
+/.settings
+/.vscode
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
